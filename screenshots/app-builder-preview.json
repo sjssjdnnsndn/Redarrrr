@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 3778,
+      "bodyTextHash": "6c9306728159e268f2f4fee36cf512865273982abdea55d896ce7f0ba8c7c67f",
+      "bodyTextPrefix": "Scout Radar Tape Watchlist Method Live BINANCE GEM RADAR Catch t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 3616,
+      "bodyTextHash": "112fd8b240756e4e73673212194c30cc1dbf3c3a347ff67e47de45f723d918ac",
+      "bodyTextPrefix": "Scout Radar Tape Watchlist Method BINANCE GEM RADAR Catch the mo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
